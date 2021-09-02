@@ -7,4 +7,4 @@ https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/7.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/8.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/9.gif,
-https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/1.gif
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/10.gif
