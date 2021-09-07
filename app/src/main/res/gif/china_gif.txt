@@ -117,6 +117,26 @@ https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/117.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/118.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/119.gif,
-https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/120.gif
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/120.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/121.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/122.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/123.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/124.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/125.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/126.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/127.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/128.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/129.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/130.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/131.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/132.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/133.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/134.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/135.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/136.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/137.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/138.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/139.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/140.gif
 
 
