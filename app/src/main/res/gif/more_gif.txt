@@ -81,7 +81,23 @@ https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/8
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/81.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/82.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/83.gif,
-https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/84.gif
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/84.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/85.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/86.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/87.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/88.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/89.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/90.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/91.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/92.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/93.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/94.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/95.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/96.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/97.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/98.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/99.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/more/100.gif
 
 
 
