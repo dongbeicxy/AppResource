@@ -27,4 +27,14 @@ https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/27.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/28.gif,
 https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/29.gif,
-https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/30.gif
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/30.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/31.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/32.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/33.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/34.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/35.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/36.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/37.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/38.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/39.gif,
+https://github.com/dongbeicxy/AppResource/raw/master/app/src/main/res/gif/china/40.gif
